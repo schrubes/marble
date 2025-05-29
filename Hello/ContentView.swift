@@ -12,7 +12,7 @@ struct ContentView: View {
             Image(systemName: "speaker.zzz")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, Matt this is you block of Marble")
+            Text("Hello, Paul this is your block of Marble")
             
             Image("marble")
         }
